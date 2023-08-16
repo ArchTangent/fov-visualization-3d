@@ -1,2 +1,3 @@
-# fov-visualization-3d
-3D field of view (FOV) visualization for video games
+# FOV Visualization (3D)
+
+3D field of view (FOV) visualization for video games.
